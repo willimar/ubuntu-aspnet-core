@@ -1,4 +1,4 @@
-FROM ubuntu:18.04 AS ubuntu-asp-net
+FROM ubuntu:18.04 AS ubuntu-aspnet-core
 LABEL key="asp-net-core"
 LABEL version="0.0.1"
 LABEL description="Rocha, Willimar <willimar@gmail.com> \
