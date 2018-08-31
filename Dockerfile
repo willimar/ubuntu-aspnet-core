@@ -1,6 +1,6 @@
 FROM ubuntu:18.04 AS ubuntu-aspnet-core
-LABEL key="asp-net-core"
-LABEL version="0.0.1"
+LABEL key="ubuntu-aspnet-core"
+LABEL version="1.0.1"
 LABEL description="Rocha, Willimar <willimar@gmail.com> \
                   Create the machine with Aps.Net Core in the Ubuntun image. \
                   The command will create the basic requeriments to use ASP.Net Core application."
